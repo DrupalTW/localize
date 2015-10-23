@@ -1,5 +1,5 @@
 # 溝通
-- https://gitter.im/amouro/drupal.tw/localize
+- https://gitter.im/DrupalTW/localize
 
 # 通用翻譯
 - Entity: 實體
